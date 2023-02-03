@@ -195,6 +195,18 @@
   ]
 },
 {
+  "name":"org.eclipse.swt.internal.win32.WINDOWPOS",
+  "fields":[
+    {"name":"cx"}, 
+    {"name":"cy"}, 
+    {"name":"flags"}, 
+    {"name":"hwnd"}, 
+    {"name":"hwndInsertAfter"}, 
+    {"name":"x"}, 
+    {"name":"y"}
+  ]
+},
+{
   "name":"org.eclipse.swt.internal.win32.WNDCLASS",
   "fields":[
     {"name":"cbClsExtra"}, 

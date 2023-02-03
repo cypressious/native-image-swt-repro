@@ -1,5 +1,7 @@
 {
   "resources":{
-  "includes":[]},
+  "includes":[{
+      "pattern":"\\Qswt-win32-4332.dll\\E"
+    }]},
   "bundles":[]
 }

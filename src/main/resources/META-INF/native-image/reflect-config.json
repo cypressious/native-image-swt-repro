@@ -3,6 +3,9 @@
   "name":"org.eclipse.swt.graphics.Device"
 },
 {
+  "name":"org.eclipse.swt.internal.Library"
+},
+{
   "name":"org.eclipse.swt.widgets.Display"
 }
 ]
